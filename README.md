@@ -5,3 +5,4 @@ Scalable Vector Graphics (SVG) format of Cafe Bazaar logo.
 
 <div dir="rtl">
 [کافه‌بازار](https://cafebazaar.ir/)
+</div>
